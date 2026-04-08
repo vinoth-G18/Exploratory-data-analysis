@@ -10,6 +10,7 @@ To strengthen my understanding of data analysis workflows
 To practice handling real-world messy datasets
 To develop intuition for feature importance and data patterns
 To prepare for building end-to-end machine learning projects
+
 📌 What I Practiced
 🔍 Exploratory Data Analysis (EDA)
 Understanding dataset structure and feature types
@@ -24,15 +25,18 @@ Creating new meaningful features
 Transforming skewed data distributions
 Encoding categorical variables
 Scaling numerical features
+
 🎯 Feature Selection
 Identifying important features
 Removing irrelevant or redundant variables
 Applying model-based selection methods (e.g., Lasso)
+
 🧰 Tools & Libraries
 Python
 Pandas, NumPy
 Matplotlib, Seaborn
 Scikit-learn
+
 🧠 Learning Approach
 
 This repository is focused on learning by doing.
